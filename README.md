@@ -83,4 +83,4 @@ css5种实现垂直水平居中
     }
 ```
 #### 效果
-![image](https://github.com/Tyetao/css-verticalHorizontalCenter/effect.png)
+![image](https://github.com/Tyetao/css-verticalHorizontalCenter/blob/master/effect.png)
