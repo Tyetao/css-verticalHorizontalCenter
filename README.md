@@ -82,3 +82,5 @@ css5种实现垂直水平居中
       margin-left: -100px; */
     }
 ```
+#### 效果
+![image](https://github.com/Tyetao/css-verticalHorizontalCenter/屏幕快照 2017-08-31 10.21.18.png)
