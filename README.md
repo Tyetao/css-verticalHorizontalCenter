@@ -18,16 +18,14 @@ css5种实现垂直水平居中
       border: 1px solid red;
     }
     .child {
-      /*子元素为绝对定位*/
-      position: absolute;
+      position: absolute;/*子元素为绝对定位*/
       width: 100px;
       height: 100px;
       top: 0;
       bottom: 0;
       left: 0;
       right: 0;
-      /*margin设置为auto*/
-      margin: auto;
+      margin: auto;/*margin设置为auto*/
       border: 1px solid black;
     }
 ```
