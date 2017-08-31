@@ -35,7 +35,7 @@ css5种实现垂直水平居中
       width: 200px;
       height: 200px;
       border: 1px solid red;
-      display: table-cell;
+      display: table-cell;/*此元素会作为一个表格单元格显示（类似 <td> 和 <th>）*/
       vertical-align: middle;/*实现垂直居中*/
     }
     .child {
